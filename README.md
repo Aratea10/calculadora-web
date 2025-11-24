@@ -49,8 +49,8 @@ calculadora-web/
 5. Consulta el historial en el panel lateral
 
 ## Capturas de Pantalla
-![texto alternativo](assets\img\1.png)
-![texto alternativo](assets\img\2.png)
+![desktop](1.png)
+![mobile](2.png)
 
 ## Contribuciones
 Pull requests son bienvenidos. Para cambios importantes, abre un issue primero.
